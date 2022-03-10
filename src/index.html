@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ pageNum === 0 ? headline : pages['page_' + pageNum + '_title'] }}</title>
+
+  <title>{{ pageNum === 1 ? headline : pages['page_' + pageNum + '_title'] }}</title>
   <link rel="stylesheet" href="./styles.scss">
   <link rel="shortcut icon" href="https://www.columbiaspectator.com/pb/resources/img/CDS_Favicon.ico"
     type="image/x-icon" />
@@ -19,6 +21,8 @@
     <include src="partials/navbar.html"></include>
 
     <include src="partials/header-cover.html"></include>
+
+    <include src="partials/header-cover2.html"></include>
 
     <div class="story">
       <each loop="item in bodies['page_' + pageNum]">
