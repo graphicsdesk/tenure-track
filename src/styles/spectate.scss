@@ -80,8 +80,30 @@ b {
     object-fit: cover;
   }
 }
-
 .cover-hed {
+  margin-bottom: 0px;
+
+  header {
+    background-color: rgba(0, 0, 0, 0.43);
+    max-width: 700px;
+    color: #fff;
+    transform: translateY(-40vh);
+    align-items: center;
+
+    p, h1 {
+       color: #fff;
+    }
+
+    .byline {
+      text-align: center;
+
+      a {
+        color: #fff;
+      }
+    }
+  }
+}
+.cover-hed0 {
   margin-bottom: 0px;
 
   header {
