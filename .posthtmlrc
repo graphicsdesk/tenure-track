@@ -191,10 +191,6 @@
               "value": "Across the University, women make up 29.6 percent of tenured professors, and underrepresented minorities make up just 7.5 percent. By contrast, women make up 54 percent of professors  ineligible for tenure, while “underrepresented minorities” make up 11.6 percent. This follows a broader trend of diverse faculty representation remaining contained to<a href=\"https://www.insidehighered.com/news/2016/08/22/study-finds-gains-faculty-diversity-not-tenure-track\"> the adjunct level</a>."
             },
             {
-              "type": "text",
-              "value": "TENURE BY GENDER GRAPHIC"
-            },
-            {
               "type": "graphic",
               "value": {
                 "asset": "GenderNewData.html"
@@ -249,10 +245,6 @@
               "value": "In an anonymous survey conducted by the Policy Planning Committee in 2018, professors from underrepresented minorities reported feeling that the difficulty of gaining tenure at Columbia required them to make “extra water-tight cases.” The report also displayed disparities in the proportion of underrepresented faculty who are denied or not put up for tenure. 62 percent of underrepresented faculty did not receive tenure or were not put up for tenure, compared to 50 percent of white candidates and 47 percent of Asian candidates. The report found that this disparity was particularly pronounced among Black and Hispanic faculty members."
             },
             {
-              "type": "text",
-              "value": "FACULTY TENURE BY RACE AND CITIZENSHIP GRAPHIC"
-            },
-            {
               "type": "graphic",
               "value": {
                 "asset": "MinUndergradFaculty.html"
@@ -285,6 +277,10 @@
             {
               "type": "text",
               "value": "<i>Deputy Editor Stella Pagkas can be contacted at </i><i>stella.pagkas@columbiaspectator.com</i><i>. Follow her on Twitter</i><a href=\"https://twitter.com/stellapagkas\"><i> </i></a><a href=\"https://twitter.com/stellapagkas\"><i>@stellapagkas</i></a><i>.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>Graphics Reporter Leela Chari can be contacted at </i><i>leela.chari@columbiaspectator.com</i><i>. </i>"
             },
             {
               "type": "text",
